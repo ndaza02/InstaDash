@@ -8,6 +8,51 @@
 const productsData = {
     "kitchen-utensils": [
         {
+            id: "k5",
+            name: "Black and Gold Cast Iron Pot",
+            price: 280.00,
+            originalPrice: 349.99,
+            image: "products/Kitchen Utensils and Accessories/Black and Gold Cast Iron Pot - $280/Black-and-Gold-Cast-Iron-Pot-$280.jpg",
+            category: "Kitchen Utensils",
+            rating: 4.9,
+            reviewCount: 128,
+            description: "Luxurious black and gold cast iron pot that combines style and functionality. Perfect for both everyday cooking and special occasions.",
+            specs: ["5.5-quart capacity", "Pre-seasoned cast iron", "Gold-finished handles", "Oven safe up to 500°F", "Dishwasher safe (hand wash recommended)", "Lifetime warranty"],
+            inStock: true,
+            isNew: true,
+            isOnSale: true
+        },
+        {
+            id: "k6",
+            name: "George & Mason 25cm Round Enamel Cast Iron Casserole",
+            price: 200.00,
+            originalPrice: 249.99,
+            image: "products/Kitchen Utensils and Accessories/George & Mason - 25cm Round Enamel Cast Iron Casserole - Cream - $200/George & Mason - 25cm Round Enamel Cast Iron Casserole - Cream - $200.file",
+            category: "Kitchen Utensils",
+            rating: 4.8,
+            reviewCount: 215,
+            description: "Elegant cream-colored enameled cast iron casserole from George & Mason. Perfect for slow cooking, braising, and baking.",
+            specs: ["25cm round size", "Enameled cast iron construction", "Cream color finish", "Oven and stovetop safe", "Dishwasher safe (hand wash recommended)", "Lifetime warranty"],
+            inStock: true,
+            isNew: true,
+            isOnSale: false
+        },
+        {
+            id: "k7",
+            name: "Orange Cast Iron Pot",
+            price: 150.00,
+            originalPrice: 199.99,
+            image: "products/Kitchen Utensils and Accessories/Orange Cast Iron Pot - $150/Orange-Cast-Iron-Pot-$150.jpg",
+            category: "Kitchen Utensils",
+            rating: 4.6,
+            reviewCount: 187,
+            description: "Vibrant orange cast iron pot that adds a pop of color to your kitchen while providing excellent heat retention and even cooking.",
+            specs: ["5.5-quart capacity", "Pre-seasoned cast iron", "Lid included", "Oven safe up to 500°F", "Dishwasher safe (hand wash recommended)", "Lifetime warranty"],
+            inStock: true,
+            isNew: true,
+            isOnSale: true
+        },
+        {
             id: "k1",
             name: "Black Cast Iron Pot",
             price: 150.00,
