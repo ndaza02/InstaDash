@@ -10,8 +10,8 @@ const productsData = {
         {
             id: "k1",
             name: "Black Cast Iron Pot",
-            price: 980.00,
-            originalPrice: 1299.99,
+            price: 150.00,
+            originalPrice: 199.99,
             image: "products/Kitchen Utensils and Accessories/Black Cast Iron Pot - R980/black-cast-iron-pot-R980.webp",
             category: "Kitchen Utensils",
             rating: 4.8,
@@ -25,8 +25,8 @@ const productsData = {
         {
             id: "k2",
             name: "Blue Cast Iron Pot",
-            price: 980.00,
-            originalPrice: 1199.99,
+            price: 150.00,
+            originalPrice: 199.99,
             image: "products/Kitchen Utensils and Accessories/Blue Cast Iron Pot - R980/blue-cast-iron-pot-R980.file",
             category: "Kitchen Utensils",
             rating: 4.7,
@@ -40,8 +40,8 @@ const productsData = {
         {
             id: "k3",
             name: "Cream Cast Iron Pot",
-            price: 980.00,
-            originalPrice: 1199.99,
+            price: 150.00,
+            originalPrice: 199.99,
             image: "products/Kitchen Utensils and Accessories/Cream Cast Iron Pot - R980/cream-cast-iron-pot-R980.file",
             category: "Kitchen Utensils",
             rating: 4.9,
@@ -55,8 +55,8 @@ const productsData = {
         {
             id: "k4",
             name: "Red Cast Iron Pot",
-            price: 980.00,
-            originalPrice: 1299.99,
+            price: 150.00,
+            originalPrice: 199.99,
             image: "products/Kitchen Utensils and Accessories/Red Cast Iron Pot - R980/red-cast-iron-pot-set-R980.file",
             category: "Kitchen Utensils",
             rating: 4.8,
