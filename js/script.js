@@ -8,6 +8,21 @@
 const productsData = {
     "kitchen-utensils": [
         {
+            id: "k8",
+            name: "Black and Red Cast Iron Pot",
+            price: 280.00,
+            originalPrice: 349.99,
+            image: "products/Kitchen Utensils and Accessories/Black and Red Cast Iron Pot- $280/Black-and-Red-Cast-Iron-Pot-$280.jpg",
+            category: "Kitchen Utensils",
+            rating: 4.8,
+            reviewCount: 142,
+            description: "Striking black and red cast iron pot that combines durability with a bold design. Perfect for both cooking and serving.",
+            specs: ["5.5-quart capacity", "Pre-seasoned cast iron", "Red enamel exterior with black interior", "Oven safe up to 500°F", "Dishwasher safe (hand wash recommended)", "Lifetime warranty"],
+            inStock: true,
+            isNew: true,
+            isOnSale: true
+        },
+        {
             id: "k5",
             name: "Black and Gold Cast Iron Pot",
             price: 280.00,
