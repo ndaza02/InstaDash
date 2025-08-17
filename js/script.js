@@ -8,6 +8,36 @@
 const productsData = {
     "kitchen-utensils": [
         {
+            id: "k13",
+            name: "Beige Cast Iron Pot",
+            price: 150.00,
+            originalPrice: 199.99,
+            image: "products/Kitchen Utensils and Accessories/Beige Cast Iron Pot - $150/beige-cast-iron-pot-$150.jpg",
+            category: "Kitchen Utensils",
+            rating: 4.7,
+            reviewCount: 125,
+            description: "Elegant beige cast iron pot with a sophisticated, neutral tone that complements any kitchen decor while delivering exceptional cooking performance.",
+            specs: ["5.5-quart capacity", "Pre-seasoned cast iron", "Lid included", "Oven safe up to 500°F", "Dishwasher safe (hand wash recommended)", "Lifetime warranty"],
+            inStock: true,
+            isNew: true,
+            isOnSale: true
+        },
+        {
+            id: "k14",
+            name: "Burnt Orange Cast Iron Pot",
+            price: 150.00,
+            originalPrice: 199.99,
+            image: "products/Kitchen Utensils and Accessories/Burnt Orange Cast Iron Pot - $150/burnt-orange-cast-iron-pot-$150.jpg",
+            category: "Kitchen Utensils",
+            rating: 4.6,
+            reviewCount: 142,
+            description: "Warm burnt orange cast iron pot that adds a cozy, autumnal touch to your kitchen while providing superior heat retention and even cooking.",
+            specs: ["5.5-quart capacity", "Pre-seasoned cast iron", "Lid included", "Oven safe up to 500°F", "Dishwasher safe (hand wash recommended)", "Lifetime warranty"],
+            inStock: true,
+            isNew: true,
+            isOnSale: true
+        },
+        {
             id: "k9",
             name: "Deep Blue Cast Iron Pot",
             price: 150.00,
